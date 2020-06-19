@@ -24,6 +24,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 .icon-headset:before {
   content: "\e900";
 }
@@ -143,4 +144,7 @@
 }
 .icon-sms:before {
   content: "\e927";
+}
+.icon-school:before {
+  content: "\e928";
 }
